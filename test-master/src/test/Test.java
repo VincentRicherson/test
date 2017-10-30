@@ -6,7 +6,7 @@
 package test;
 //test
 
-//thicc
+//RICHERSON 
 /**
  *
  * @author 146004265
